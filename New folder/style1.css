@@ -1,0 +1,21 @@
+.container {
+    background-color:burlywood;
+    display:flex;
+    justify-content: space-between;
+    margin:0;
+    padding: 0;
+
+
+}
+
+.container ul{
+    display: flex;
+    list-style: none;
+
+    
+}
+
+ li{
+    margin-left: 10px;
+    padding-left: 10px;
+}
